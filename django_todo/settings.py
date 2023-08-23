@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', '(9!5(=*@0o5g*_(g=#bwg-^z+k-hnio!s*l+=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-lisa-bird-django-2-ln33qv2suq.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['lb200-django-todo-app-cf5f491c11c9.herokuapp.com']
 
 
 # Application definition
